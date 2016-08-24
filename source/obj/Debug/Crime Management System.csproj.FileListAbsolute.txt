@@ -1,0 +1,10 @@
+C:\Users\Nilanjan\Desktop\Documents\Visual Studio 2012\Projects\Training\Globsyn Project\Crime Management System\Crime Management System\bin\Crime Management System.dll
+C:\Users\Nilanjan\Desktop\Documents\Visual Studio 2012\Projects\Training\Globsyn Project\Crime Management System\Crime Management System\bin\Crime Management System.pdb
+C:\Users\Nilanjan\Desktop\Documents\Visual Studio 2012\Projects\Training\Globsyn Project\Crime Management System\Crime Management System\obj\Debug\Crime Management System.dll
+C:\Users\Nilanjan\Desktop\Documents\Visual Studio 2012\Projects\Training\Globsyn Project\Crime Management System\Crime Management System\obj\Debug\Crime Management System.pdb
+C:\Users\Nilanjan\Desktop\Documents\Visual Studio 2012\Projects\Training\Globsyn Project\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csprojResolveAssemblyReference.cache
+C:\Users\Sality\Documents\Visual Studio 2012\Projects\Globsyn\Crime Management System\Crime Management System\bin\Crime Management System.dll
+C:\Users\Sality\Documents\Visual Studio 2012\Projects\Globsyn\Crime Management System\Crime Management System\bin\Crime Management System.pdb
+C:\Users\Sality\Documents\Visual Studio 2012\Projects\Globsyn\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csprojResolveAssemblyReference.cache
+C:\Users\Sality\Documents\Visual Studio 2012\Projects\Globsyn\Crime Management System\Crime Management System\obj\Debug\Crime Management System.dll
+C:\Users\Sality\Documents\Visual Studio 2012\Projects\Globsyn\Crime Management System\Crime Management System\obj\Debug\Crime Management System.pdb
