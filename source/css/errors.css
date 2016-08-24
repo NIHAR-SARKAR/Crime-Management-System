@@ -1,0 +1,44 @@
+﻿
+    #error {
+    width:800px;
+    margin:auto;
+}
+#message {
+    float:left;
+    width:500px;
+    padding:100px 100px;
+    vertical-align:central;
+
+}
+.epic {
+    height:200px;
+}
+span#code {
+    font-size:200px;
+    font-family:'Nueva Std';
+    color:#bb2121;
+}
+#details {
+    font-size:50px;
+    font-family:Gabriola;
+}
+#restristed {
+    font-size:80px;
+    color:#bb2121;
+}
+.homelink {
+    padding: 15px 30px;
+    border:2px solid #229977;
+    color:#227799;
+    transition-duration:0.5s;
+    text-decoration:none;
+    font-size:25px;
+    font-family:monospace;
+    border-radius:7px;
+
+}
+    .homelink:hover {
+        
+        background-color:#229977;
+        color:#fff;
+    }

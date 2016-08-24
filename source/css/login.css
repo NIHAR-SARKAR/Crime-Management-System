@@ -1,0 +1,56 @@
+﻿  input[type="submit"] {
+    padding:7px 35px;
+    background-color:#229977;
+    border:2px solid #229977;
+    border-radius:5px;
+    box-shadow:2px 2px 15px #666,inset 2px 2px 20px #666;
+    color:#eee;
+    font-family:Gisha;
+    font-size:16px;
+
+}
+input[type="submit"]:hover {
+    background-color:#227799;
+    border-radius:5px;
+    box-shadow:2px 2px 10px #666,inset 2px 2px 20px #666;
+    margin-top:1px;
+    margin-left:1px;
+    cursor:pointer;
+}
+
+        #right {
+            float:left;
+
+        }
+        table#content {
+            margin-top:200px;
+            padding: 30px;
+            background-color:#227799;
+            border-radius:0px 0px 20px 20px;
+            min-width:300px;
+            box-shadow:3px 3px 15px #999;
+        }
+            #content tr td:first-child {
+                color: #fff;
+                font-weight: bold;
+            }
+           
+
+#login-head {
+    background-color:#111;
+    color:#fff;
+}
+input[type="text"],input[type="time"],input[type="date"],input[type="password"],textarea,select {
+    border:2px inset #f27905;
+    padding:2px 3px;
+    color:#125c0c;
+}
+
+a.home {
+    color:#229977;
+    font-size:20px;
+    font-weight:bold;
+}
+a.home:hover {
+    color:#f27905;
+}

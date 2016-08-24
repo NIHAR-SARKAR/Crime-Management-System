@@ -1,0 +1,90 @@
+﻿.browser-icons {
+   float:right;
+   margin:0px 100px 0px 0px;
+
+
+   font-size:25px;
+}
+.browser-icons  ul{
+    list-style: none;
+
+}
+    .browser-icons  li {
+        display:inline;
+        padding:0px 7px;
+        color:#bbb;
+    }
+    .browser-icons  li:hover {
+        color:#f27905;
+    }
+.rows .imgz {
+    width:100px;
+    float:left;
+}
+.rows .details {
+    float:left;
+}
+#content {
+    width:1000px;
+    margin:auto;
+}
+#top {
+    float:left;
+    width:900px;
+    padding:20px 50px;
+    background-color:#aaa;
+
+}
+#main {
+    float:left;
+    width:1000px;
+    min-height:450px;
+    background-color:#ccc;
+}
+#foot {
+    float:left;
+    width:900px;
+padding:15px 50px;
+color:#fff;
+background-color:#222;
+margin-bottom:10px;
+border-bottom-left-radius:20px;
+border-bottom-right-radius:20px;
+}
+
+#left {
+    width:300px;
+    float:left;
+    padding:50px;
+    height:500px;
+    background-color:#229977;
+
+}
+#right {
+    width:500px;
+    float:left;
+    padding:50px;
+    height:500px;
+    background-color:#ccc;
+    
+}
+#profileImage {
+    height: 150px;
+    margin-left: 150px;
+    border:2px inset #229977;
+    border-radius:80px;
+ 
+
+}
+    #profileImage:hover {
+        box-shadow:2px 2px 15px #ff6a00;
+    }
+.log tr td:first-child {
+    font-family:'Adobe Gothic Std';
+    font-weight:bold;
+    color:#ff6a00;
+}
+.log tr td {
+    padding:0px 10px;
+    border:2px inset #229977;
+}

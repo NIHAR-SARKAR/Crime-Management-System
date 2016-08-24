@@ -1,0 +1,32 @@
+
+
+
+
+
+
+.btn1{
+    color: #fff;
+    background-color: #229977;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.worning{
+    color: red;}
+
+
+/*-------------------------------------------------*/
+    #hov_txt{
+
+padding:5px 10px;
+    background-color:#ccc;
+    color:#999;
+    font-family:courior;
+    display:none;
+        position:absolute;
+}
+
+valid{
+    color: red;
+    display: inline-block;
+}
+strength{color:#cc4433;font-weight: bold}
